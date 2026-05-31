@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Combustível Vantajoso</string>
+    <string name="label_preco_gasolina">Preço da Gasolina (por litro)</string>
+    <string name="label_preco_alcool">Preço do Álcool (por litro)</string>
+    <string name="label_valor_abastecer">Valor a Abastecer (R$)</string>
+    <string name="btn_calcular">Calcular Combustível Vantajoso</string>
+    <string name="hint_gasolina">Ex: 6.20</string>
+    <string name="hint_alcool">Ex: 4.00</string>
+    <string name="hint_valor">Ex: 50.00</string>
+    <string name="resultado_titulo">Resultado do Cálculo</string>
+    <string name="erro_campos_vazios">Preencha todos os campos para calcular!</string>
+</resources>

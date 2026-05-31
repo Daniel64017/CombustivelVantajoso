@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paleta de cores baseada no azul do logotipo -->
+    <color name="primary">#1A44A5</color>
+    <color name="primary_dark">#0F3D99</color>
+    <color name="primary_light">#EAF0FA</color>
+    <color name="accent">#2A62E6</color>
+    
+    <!-- Cores Neutras de UI -->
+    <color name="background">#F4F6FA</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#1E293B</color>
+    <color name="text_secondary">#64748B</color>
+    <color name="border">#E2E8F0</color>
+
+    <!-- Cores de Destaque para Resultados -->
+    <color name="success">#10B981</color>
+    <color name="info">#3B82F6</color>
+</resources>

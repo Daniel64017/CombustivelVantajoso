@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema Base do Aplicativo usando Material 3 sem Action Bar para controle total da UI -->
+    <style name="Theme.CombustivelVantajoso" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Cores Principais do Tema -->
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+
+        <!-- Cores de Fundo do Sistema -->
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/primary</item>
+    </style>
+</resources>
